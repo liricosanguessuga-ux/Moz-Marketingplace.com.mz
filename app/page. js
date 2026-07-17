@@ -1,0 +1,5 @@
+import MozMarketPlace from "../components/MozMarketPlace";
+
+export default function Home() {
+  return <MozMarketPlace />;
+}
